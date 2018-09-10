@@ -7,8 +7,8 @@
 // @homepage     http://agma.io/
 // @match        agma.io
 // @icon         http://agma.io/img/agmalogo_a.png
-// @updateURL    https://github.com/gamerdx/Agma.io/raw/master/agma.ioDZ_HUB.js
-// @downloadURL  https://github.com/gamerdx/Agma.io/raw/master/agma.ioDZ_HUB.js
+// @updateURL    https://github.com/gamerdx/Agma.io/Bolb/master/agma.ioDZ_HUB.js
+// @downloadURL  https://github.com/gamerdx/Agma.io/Bolb/master/agma.ioDZ_HUB.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-end
