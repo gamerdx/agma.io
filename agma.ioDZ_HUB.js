@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Agma.ioDZ_HUB
 // @namespace    http://agma.io/
-// @version      2.0.1
+// @version      1.9.2
 // @description  Fast mass ejector, respawn macro, fast respawn, fast feed, fast splits, cell and chat commands, anti-spam
 // @author       Haydutlar
 // @homepage     http://agma.io/
