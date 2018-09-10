@@ -7,8 +7,8 @@
 // @homepage     http://agma.io/
 // @match        agma.io
 // @icon         http://agma.io/img/agmalogo_a.png
-// @updateURL    https://github.com/gamerdx/Agma.io/Bolb/master/agma.ioDZ_HUB.js
-// @downloadURL  https://github.com/gamerdx/Agma.io/Bolb/master/agma.ioDZ_HUB.js
+// @updateURL    https://github.com/gamerdx/Agma.io/raw/master/agma.ioDZ_HUB.js
+// @downloadURL  https://github.com/gamerdx/Agma.io/raw/master/agma.ioDZ_HUB.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-end
@@ -17,7 +17,7 @@
 /*
 To change your controls visit the link below.
 Press a desired key and take its code
-R is 82, if u want to change it, just press for ex. P - 80:
+T is 84, if u want to change it, just press for ex. P - 80:
 var resp = 80; // P (Respawn)
 
 https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
@@ -26,7 +26,7 @@ https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
 //EDIT KEYBINDS
 var food = 87; // W - 87 (Macro Feed)
 var singleFood = 81; // Q - 81 (Single Feed)
-var resp = 82; // R (Respawn)
+var resp = 84; // T (Respawn)
 var dubl = 68; // D (Double Split)
 var tripl = 65; // A (Triple Split)
 var mxsplt = 16; // SHIFT (Max Split)
